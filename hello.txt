@@ -5,3 +5,5 @@ add a new line
 Creating a new branch is quick & simple.
 
 test
+
+fix bug on master
